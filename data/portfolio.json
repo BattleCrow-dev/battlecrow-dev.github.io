@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Зайцеботы за работой",
+    "description": "Кооперативный приключенческий квест с элементами головоломки <br> <br> В рамках конкурса вместе с командой, в которой я был тимлидом/геймдизайнером, был разработан прототип игры",
+    "thumbnail": "assets/images/zaytzeboty.png",
+    "link": "https://battlecrow.itch.io/bunnybots-at-work",
+    "linkdetails": "Ссылка на itch.io"
+  },
+  {
+    "title": "Угроза (Threat)",
+    "description": "Интерактивный симулятор системного администратора <br> <br> В рамках геймджема, в котором была получена номинация 'Лучшее соответствие теме', вместе с командой, где я был Unity-разработчиком, был разработан прототип игры",
+    "thumbnail": "assets/images/ugroza.png",
+    "link": "https://grikos.itch.io/threat",
+    "linkdetails": "Ссылка на itch.io"
+  },
+  {
+    "title": "ПрыгСкок",
+    "description": "Классический платформер с широким разнообразием механик и уровней <br> <br> Первый самостоятельный мобильный проект, доведённый до публикации в Google Play и собравший аудиторию в 300 игроков",
+    "thumbnail": "assets/images/jumpjump.png",
+    "link": "https://battlecrow.itch.io/jumpjump",
+    "linkdetails": "Ссылка на apk-билд"
+  },
+  {
+    "title": "Alien Guardian",
+    "description": "Платформер с элементами шутера <br> <br> Проект, разработанный в рамках дополнительной программы обучения в ВУЗе",
+    "thumbnail": "assets/images/alien.png",
+    "link": "https://battlecrow.itch.io/alien-guardian",
+    "linkdetails": "Ссылка на itch.io"
+  },
+  {
+    "title": "Spinning Cheese",
+    "description": "Авторская аркада про вращение сыра с целью попасть в форму <br> <br> Проект был опубликован на Google Play, Яндекс.Игры и RuStore, где получил довольно позитивные метрики",
+    "thumbnail": "assets/images/cheese.png",
+    "link": "https://battlecrow.itch.io/spinningcheese",
+    "linkdetails": "Ссылка на itch.io"
+  },
+  {
+    "title": "SpinIt!",
+    "description": "Аркада про вращение булавы и увороты от препятствий <br> <br> Проект был опубликован на Google Play, где показал хорошие метрики",
+    "thumbnail": "assets/images/spinit.png",
+    "link": "https://battlecrow.itch.io/spinit",
+    "linkdetails": "Ссылка на itch.io"
+  },
+  {
+    "title": "EasyQuizzy",
+    "description": "Викторина на различные темы <br> <br> Проект был разработан в рамках школьного проекта и опубликован в Google Play",
+    "thumbnail": "assets/images/quiz.png",
+    "link": "https://battlecrow.itch.io/easyquizzy",
+    "linkdetails": "Ссылка на itch.io"
+  },
+  {
+    "title": "MIREARCANOID",
+    "description": "Классический арканоид с базовыми для жанра механиками <br> <br> Проект был разработан в рамках студенческой практики и опубликован на Яндекс.Игры",
+    "thumbnail": "assets/images/arkanoid.png",
+    "link": "https://battlecrow.itch.io/mirearcanoid",
+    "linkdetails": "Ссылка на itch.io"
+  },
+  {
+    "title": "Какой ты Смешарик?",
+    "description": "Тест с двумя режимами игры <br> <br> Проект предназначался для создания шаблона для подобных игры, но не прошёл публикацию на Яндекс.Игры из-за авторских прав",
+    "thumbnail": "assets/images/smeshariki.png",
+    "link": "https://battlecrow.itch.io/who-is-you-from-kikoriki",
+    "linkdetails": "Ссылка на itch.io"
+  },
+  {
+    "title": "Sound Equalizer",
+    "description": "Музыкальный эквалайзер <br> <br> Прототип приложения для отображения частотных характеристик музыкального трека",
+    "thumbnail": "assets/images/equalizer.png",
+    "link": "https://battlecrow.itch.io/soundequalizer",
+    "linkdetails": "Ссылка на билд"
+  }
+]
