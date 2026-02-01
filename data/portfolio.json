@@ -28,6 +28,13 @@
     "linkdetails": "Ссылка на itch.io"
   },
   {
+    "title": "Multiplayer Racing",
+    "description": "Многопользовательская гонка от 1 до 4 игроков <br> <br> Проект с реализацией локального и сетевого мультиплеера",
+    "thumbnail": "assets/images/racing.png",
+    "link": "https://battlecrow.itch.io/split-screen-racing",
+    "linkdetails": "Ссылка на itch.io"
+  },
+  {
     "title": "Spinning Cheese",
     "description": "Авторская аркада про вращение сыра с целью попасть в форму <br> <br> Проект был опубликован на Google Play, Яндекс.Игры и RuStore, где получил довольно позитивные метрики",
     "thumbnail": "assets/images/cheese.png",
