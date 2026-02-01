@@ -6,9 +6,11 @@ document.addEventListener('DOMContentLoaded', () => {
       card.className = 'project-card';
       const thumbnail = project.thumbnail || "assets/images/sample.jpg";
       let projectLinkButton = "";
+
       if (project.link) {
         projectLinkButton = `<a class="modal-project-link" href="${project.link}" target="_blank">${project.linkdetails}</a>`;
       }
+      
       card.innerHTML = `
         <img src="${thumbnail}" alt="${project.title}">
         <div class="project-card-content">
