@@ -30,7 +30,7 @@
   {
     "title": "Multiplayer Racing",
     "description": "Многопользовательская гонка от 1 до 4 игроков <br> <br> Проект с реализацией локального и сетевого мультиплеера",
-    "thumbnail": "assets/images/racing.png",
+    "thumbnail": "assets/images/multi_racing.png",
     "link": "https://battlecrow.itch.io/split-screen-racing",
     "linkdetails": "Ссылка на itch.io"
   },
