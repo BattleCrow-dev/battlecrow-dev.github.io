@@ -1,5 +1,12 @@
 [
   {
+    "title": "ShadowRace",
+    "description": "2D гоночная аркада с асинхронным мультиплеером <br> <br> Проект был разработан в рамках ВКР и опубликован на Яндекс.Игры",
+    "thumbnail": "assets/images/shadowrace.png",
+    "link": "https://yandex.ru/games/app/504329?draft=true&lang=ru",
+    "linkdetails": "Ссылка на Яндекс.Игры"
+  },
+  {
     "title": "Зайцеботы за работой",
     "description": "Кооперативный приключенческий квест с элементами головоломки <br> <br> В рамках конкурса вместе с командой, в которой я был тимлидом/геймдизайнером, был разработан прототип игры",
     "thumbnail": "assets/images/zaytzeboty.png",
@@ -12,6 +19,13 @@
     "thumbnail": "assets/images/ugroza.png",
     "link": "https://grikos.itch.io/threat",
     "linkdetails": "Ссылка на itch.io"
+  },
+  {
+    "title": "Какой ты Смешарик?",
+    "description": "Тест с двумя режимами игры <br> <br> Проект предназначался для создания шаблона для подобных игры, но не прошёл публикацию на Яндекс.Игры из-за авторских прав",
+    "thumbnail": "assets/images/smeshariki.png",
+    "link": "https://yandex.ru/games/app/239661?draft=true&lang=ru",
+    "linkdetails": "Ссылка на Яндекс.Игры"
   },
   {
     "title": "ПрыгСкок",
@@ -59,15 +73,8 @@
     "title": "MIREARCANOID",
     "description": "Классический арканоид с базовыми для жанра механиками <br> <br> Проект был разработан в рамках студенческой практики и опубликован на Яндекс.Игры",
     "thumbnail": "assets/images/arkanoid.png",
-    "link": "https://battlecrow.itch.io/mirearcanoid",
-    "linkdetails": "Ссылка на itch.io"
-  },
-  {
-    "title": "Какой ты Смешарик?",
-    "description": "Тест с двумя режимами игры <br> <br> Проект предназначался для создания шаблона для подобных игры, но не прошёл публикацию на Яндекс.Игры из-за авторских прав",
-    "thumbnail": "assets/images/smeshariki.png",
-    "link": "https://battlecrow.itch.io/who-is-you-from-kikoriki",
-    "linkdetails": "Ссылка на itch.io"
+    "link": "https://yandex.ru/games/app/228375?draft=true&lang=ru",
+    "linkdetails": "Ссылка на Яндекс.Игры"
   },
   {
     "title": "Sound Equalizer",
