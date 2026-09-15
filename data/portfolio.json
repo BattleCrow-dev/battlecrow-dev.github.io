@@ -3,84 +3,121 @@
     "title": "ShadowRace",
     "description": "2D гоночная аркада с асинхронным мультиплеером <br> <br> Проект был разработан в рамках ВКР и опубликован на Яндекс.Игры",
     "thumbnail": "assets/images/shadowrace.png",
-    "link": "https://yandex.ru/games/app/504329?draft=true&lang=ru",
-    "linkdetails": "Ссылка на Яндекс.Игры"
+    "link": "https://battlecrow.itch.io/shadow-race",
+    "linkdetails": "Ссылка на itch.io",
+    "category": "Racing",
+    "platform": "itch.io",
+    "tags": ["2D", "Мультиплеер", "ВКР"],
+    "highlight": "Асинхронный мультиплеер · ВКР"
   },
   {
     "title": "Зайцеботы за работой",
     "description": "Кооперативный приключенческий квест с элементами головоломки <br> <br> В рамках конкурса вместе с командой, в которой я был тимлидом/геймдизайнером, был разработан прототип игры",
     "thumbnail": "assets/images/zaytzeboty.png",
     "link": "https://battlecrow.itch.io/bunnybots-at-work",
-    "linkdetails": "Ссылка на itch.io"
+    "linkdetails": "Ссылка на itch.io",
+    "category": "Co-op",
+    "platform": "itch.io",
+    "tags": ["Кооп", "Квест", "Головоломка", "Тимлид"],
+    "highlight": "Тимлид · Кооперативный квест"
   },
   {
     "title": "Угроза (Threat)",
     "description": "Интерактивный симулятор системного администратора <br> <br> В рамках геймджема, в котором была получена номинация 'Лучшее соответствие теме', вместе с командой, где я был Unity-разработчиком, был разработан прототип игры",
     "thumbnail": "assets/images/ugroza.png",
     "link": "https://grikos.itch.io/threat",
-    "linkdetails": "Ссылка на itch.io"
+    "linkdetails": "Ссылка на itch.io",
+    "category": "Simulator",
+    "platform": "itch.io",
+    "tags": ["Геймджем", "Симулятор", "Unity"],
+    "highlight": "Номинация «Лучшее соответствие теме»"
   },
   {
     "title": "Какой ты Смешарик?",
     "description": "Тест с двумя режимами игры <br> <br> Проект предназначался для создания шаблона для подобных игры, но не прошёл публикацию на Яндекс.Игры из-за авторских прав",
     "thumbnail": "assets/images/smeshariki.png",
-    "link": "https://yandex.ru/games/app/239661?draft=true&lang=ru",
-    "linkdetails": "Ссылка на Яндекс.Игры"
+    "link": "https://battlecrow.itch.io/who-is-you-from-kikoriki",
+    "linkdetails": "Ссылка на itch.io",
+    "category": "Quiz",
+    "platform": "itch.io",
+    "tags": ["Тест", "Шаблон", "UI"],
+    "highlight": "Шаблон под серию тестов"
   },
   {
     "title": "ПрыгСкок",
     "description": "Классический платформер с широким разнообразием механик и уровней <br> <br> Первый самостоятельный мобильный проект, доведённый до публикации в Google Play и собравший аудиторию в 300 игроков",
     "thumbnail": "assets/images/jumpjump.png",
     "link": "https://battlecrow.itch.io/jumpjump",
-    "linkdetails": "Ссылка на apk-билд"
+    "linkdetails": "Ссылка на apk-билд",
+    "category": "Platformer",
+    "platform": "Google Play",
+    "tags": ["Платформер", "Мобильная", "300 игроков"],
+    "highlight": "Первый релиз · 300 игроков"
   },
   {
     "title": "Alien Guardian",
     "description": "Платформер с элементами шутера <br> <br> Проект, разработанный в рамках дополнительной программы обучения в ВУЗе",
     "thumbnail": "assets/images/alien.png",
     "link": "https://battlecrow.itch.io/alien-guardian",
-    "linkdetails": "Ссылка на itch.io"
+    "linkdetails": "Ссылка на itch.io",
+    "category": "Platformer",
+    "platform": "itch.io",
+    "tags": ["Платформер", "Шутер", "ВУЗ"],
+    "highlight": "Учебный проект · Шутер-платформер"
   },
   {
     "title": "Multiplayer Racing",
     "description": "Многопользовательская гонка от 1 до 4 игроков <br> <br> Проект с реализацией локального и сетевого мультиплеера",
     "thumbnail": "assets/images/multi_racing.png",
     "link": "https://battlecrow.itch.io/split-screen-racing",
-    "linkdetails": "Ссылка на itch.io"
+    "linkdetails": "Ссылка на itch.io",
+    "category": "Racing",
+    "platform": "itch.io",
+    "tags": ["Мультиплеер", "Сплит-скрин", "Сеть"],
+    "highlight": "Локальный и сетевой мультиплеер"
   },
   {
     "title": "Spinning Cheese",
     "description": "Авторская аркада про вращение сыра с целью попасть в форму <br> <br> Проект был опубликован на Google Play, Яндекс.Игры и RuStore, где получил довольно позитивные метрики",
     "thumbnail": "assets/images/cheese.png",
     "link": "https://battlecrow.itch.io/spinningcheese",
-    "linkdetails": "Ссылка на itch.io"
+    "linkdetails": "Ссылка на itch.io",
+    "category": "Arcade",
+    "platform": "Google Play · Яндекс · RuStore",
+    "tags": ["Аркада", "Кроссплатформа", "Метрики"],
+    "highlight": "Публикации на 3 площадках"
   },
   {
     "title": "SpinIt!",
     "description": "Аркада про вращение булавы и увороты от препятствий <br> <br> Проект был опубликован на Google Play, где показал хорошие метрики",
     "thumbnail": "assets/images/spinit.png",
     "link": "https://battlecrow.itch.io/spinit",
-    "linkdetails": "Ссылка на itch.io"
+    "linkdetails": "Ссылка на itch.io",
+    "category": "Arcade",
+    "platform": "Google Play",
+    "tags": ["Аркада", "Мобильная", "Метрики"],
+    "highlight": "Хорошие метрики в Google Play"
   },
   {
     "title": "EasyQuizzy",
     "description": "Викторина на различные темы <br> <br> Проект был разработан в рамках школьного проекта и опубликован в Google Play",
     "thumbnail": "assets/images/quiz.png",
     "link": "https://battlecrow.itch.io/easyquizzy",
-    "linkdetails": "Ссылка на itch.io"
+    "linkdetails": "Ссылка на itch.io",
+    "category": "Quiz",
+    "platform": "Google Play",
+    "tags": ["Викторина", "Школьный проект"],
+    "highlight": "Первый опыт публикации"
   },
   {
     "title": "MIREARCANOID",
     "description": "Классический арканоид с базовыми для жанра механиками <br> <br> Проект был разработан в рамках студенческой практики и опубликован на Яндекс.Игры",
     "thumbnail": "assets/images/arkanoid.png",
-    "link": "https://yandex.ru/games/app/228375?draft=true&lang=ru",
-    "linkdetails": "Ссылка на Яндекс.Игры"
-  },
-  {
-    "title": "Sound Equalizer",
-    "description": "Музыкальный эквалайзер <br> <br> Прототип приложения для отображения частотных характеристик музыкального трека",
-    "thumbnail": "assets/images/equalizer.png",
-    "link": "https://battlecrow.itch.io/soundequalizer",
-    "linkdetails": "Ссылка на билд"
+    "link": "https://battlecrow.itch.io/mirearcanoid",
+    "linkdetails": "Ссылка на itch.io",
+    "category": "Arcade",
+    "platform": "itch.io",
+    "tags": ["Арканоид", "Практика", "Классика"],
+    "highlight": "Студенческая практика"
   }
 ]
