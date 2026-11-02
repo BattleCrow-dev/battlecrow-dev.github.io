@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
       let projectLinkButton = "";
 
       if (project.link) {
-        projectLinkButton = `<a class="modal-project-link" href="${project.link}" target="_blank">${project.linkdetails}</a>`;
+        projectLinkButton = `<a class="modal-project-link" href="${project.link}" target="_blank" rel="noopener noreferrer">${project.linkdetails}</a>`;
       }
       
       card.innerHTML = `
