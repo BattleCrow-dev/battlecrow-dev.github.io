@@ -12,7 +12,10 @@ document.addEventListener('DOMContentLoaded', () => {
       }
       
       card.innerHTML = `
-        <img src="${thumbnail}" alt="${project.title}">
+        <div class="project-thumb">
+          <img class="project-thumb-backdrop" src="${thumbnail}" alt="" aria-hidden="true" decoding="async">
+          <img class="project-thumb-image" src="${thumbnail}" alt="${project.title}" decoding="async">
+        </div>
         <div class="project-card-content">
           <h3>${project.title}</h3>
           <p>${project.description}</p>
